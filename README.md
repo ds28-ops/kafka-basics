@@ -134,10 +134,8 @@ docker rm -f kafka-basics-kafka-1 kafka-basics-zookeeper-1
 - Implement message acknowledgment and manual offset commits
 - Integrate Kafka with databases or visualization tools
 
----
 
-## 🧑‍💻 Author
 
-Self-learning by **Dhruv Sridhar**
+
 ```
 
