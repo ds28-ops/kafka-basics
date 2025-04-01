@@ -2,7 +2,7 @@
 
 ---
 
-```markdown
+
 # Apache Kafka Basics: Self-Learning Project
 
 This project is a self-learning exercise to understand and implement the core concepts of **Apache Kafka** using Docker, Python producers/consumers, and message partitioning.
