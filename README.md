@@ -119,20 +119,7 @@ To forcibly remove Kafka containers:
 docker rm -f kafka-basics-kafka-1 kafka-basics-zookeeper-1
 ```
 
----
 
-## 🧠 Notes
-
-- The `version` key in `compose.yml` is deprecated for Docker Compose v2+.
-- Ensure your Kafka service is available at `localhost:9092` when running Python scripts.
-
----
-
-## 📚 Further Learning
-
-- Explore custom partitioners
-- Implement message acknowledgment and manual offset commits
-- Integrate Kafka with databases or visualization tools
 
 
 
